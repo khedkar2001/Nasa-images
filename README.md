@@ -70,3 +70,15 @@ Just open index.html in your browser (no server required).
  Error Handling: Handles failed requests.
 
  Deployment: Repo + live working link.
+
+---
+👨‍💻 Author
+
+Saurabh Khedkar 
+
+Full Stack Web Developer | Pune, MH, India 
+
+📧 saurabhrkhedkar1707@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/saurabh-khedkar)  
+🐙 [GitHub](https://github.com/khedkar2001)  
+
